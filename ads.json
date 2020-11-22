@@ -1,0 +1,16 @@
+{
+  "ADS_STATION": [
+    {
+      "face_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_interstital": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "admob_banner": "ca-app-pub-8541029920461988/3598397297",
+      "admob_interstital": "ca-app-pub-8541029920461988/8056517057",
+      "admob_nativeads": "ca-app-pub-3940256099942544/2247696110",
+      "iron_keyid": "cb660d1d",
+      "iron_banner": "DefaultBanner",
+      "iron_inter": "Home_Screen",
+      "face_admob": "admob"
+    }
+  ]
+}
